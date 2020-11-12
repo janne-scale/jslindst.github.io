@@ -153,10 +153,6 @@ var CONFIG = {
    "opacityRegular": 1,
    "opacitySelectDim": 0.07,
    "select": [
-    {
-     "CaseID": "1uUithdDw6firE649LBECpUuYsGcYxEMpZpF7miN4Ujk",
-     "trailStartTime": "20190501"
-    }
    ],
    "size": {
     "allow": {
